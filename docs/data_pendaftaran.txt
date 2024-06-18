@@ -1,0 +1,75 @@
+Nama Peserta: Melysa
+Alamat Email: rahmadiantimelisa@gmail.com
+Nomor Telepon: 087789715496
+Alamat Rumah: banten
+Perguruan Tinggi: ITPLN
+Jurusan Studi: sistem informasi
+Tanggal Lahir: 2004-10-19
+Pengalaman Koding: cukup bisa
+Biaya Pendafataran: pil3
+Tipe: individu
+Jumlah Anggota: 
+Nama Anggota: 
+Bahasa yang Dikuasai: javascript, python
+Bukti Pembayaran: uploads/DiagramKonteksdanDFD0.png
+
+Nama Peserta: Melysa
+Alamat Email: rahmadiantimelisa@gmail.com
+Nomor Telepon: 087789715496
+Alamat Rumah: banten
+Perguruan Tinggi: ITPLN
+Jurusan Studi: sistem informasi
+Tanggal Lahir: 2004-10-19
+Pengalaman Koding: cukup bisa
+Biaya Pendafataran: pil3
+Tipe: individu
+Jumlah Anggota: 
+Nama Anggota: 
+Bahasa yang Dikuasai: javascript, python
+Bukti Pembayaran: uploads/DiagramKonteksdanDFD0.png
+
+Nama Peserta: Melysa
+Alamat Email: rahmadiantimelisa@gmail.com
+Nomor Telepon: 087789715496
+Alamat Rumah: banten
+Perguruan Tinggi: ITPLN
+Jurusan Studi: sistem informasi
+Tanggal Lahir: 2004-10-19
+Pengalaman Koding: cukup bisa
+Biaya Pendafataran: pil3
+Tipe: individu
+Jumlah Anggota: 
+Nama Anggota: 
+Bahasa yang Dikuasai: javascript, python
+Bukti Pembayaran: uploads/DiagramKonteksdanDFD0.png
+
+Nama Peserta: lion
+Alamat Email: lionmarry@gmail.com
+Nomor Telepon: 087789223344
+Alamat Rumah: tanggerang
+Perguruan Tinggi: ITPLN
+Jurusan Studi: sistem informasi
+Tanggal Lahir: 2004-01-16
+Pengalaman Koding: lumayan bisa
+Biaya Pendafataran: pil3
+Tipe: individu
+Jumlah Anggota: 
+Nama Anggota: 
+Bahasa yang Dikuasai: html, php
+Bukti Pembayaran: uploads/Screenshot 2023-02-15 111636.png
+
+Nama Peserta: cece
+Alamat Email: cece@gmail.com
+Nomor Telepon: 087766559988
+Alamat Rumah: sulawesi selatan
+Perguruan Tinggi: ITPLN
+Jurusan Studi: Teknik sipil
+Tanggal Lahir: 2004-11-03
+Pengalaman Koding: belum ada
+Biaya Pendafataran: pil3
+Tipe: individu
+Jumlah Anggota: 
+Nama Anggota: 
+Bahasa yang Dikuasai: c++
+Bukti Pembayaran: uploads/Screenshot 2023-03-21 141136.png
+
